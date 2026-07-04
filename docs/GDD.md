@@ -28,7 +28,7 @@ pitwall-manager/              # Hub de la saga
 │   ├── index.html
 │   └── css/style.css
 ├── games/                    # Juegos individuales (gitignored)
-│   └── f1-2000/              # Pitwall Manager: F1 2000
+│   └── pitwall-manager-f1-2000/  # Pitwall Manager: F1 2000
 └── README.md
 ```
 
