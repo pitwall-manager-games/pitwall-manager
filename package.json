@@ -1,30 +1,10 @@
 {
   "name": "pitwall-manager",
   "version": "1.0.0",
-  "description": "Simulador web de estrategia y gestión de carreras en tiempo real. Controla el muro de boxes, gestiona neumáticos y toma decisiones tácticas usando HTML, CSS y JS ",
-  "main": "index.js",
+  "description": "Saga de juegos de gestión de equipos de carreras",
   "scripts": {
-    "dev": "servor src --reload",
-    "lint": "oxlint src/",
-    "format": "oxfmt src/",
-    "test": "node --test",
-    "test:watch": "node --test --watch",
-    "deploy": "gh-pages -d src/"
+    "dev": "servor src --reload"
   },
-  "keywords": [
-    "f1-manager",
-    "motorsport-simulation",
-    "race-strategy",
-    "pitwall-simulator",
-    "html5-canvas-game",
-    "vanilla-javascript",
-    "css-grid-layout",
-    "es6-modules",
-    "indie-game-development",
-    "web-based-game",
-    "browser-game",
-    "real-time-strategy"
-  ],
   "author": "rreinav",
   "license": "MIT",
   "devEngines": {
@@ -36,8 +16,6 @@
   },
   "type": "module",
   "devDependencies": {
-    "oxfmt": "^0.57.0",
-    "oxlint": "^1.72.0",
     "servor": "^4.0.2"
   }
 }
