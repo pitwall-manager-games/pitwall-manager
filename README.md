@@ -19,7 +19,7 @@ Estrategia y gestión en tiempo real ambientado en la temporada 1976. Sin comuni
 ## 📁 Estructura
 
 ```
-├── docs/GDD.md        # Documento de diseño de la saga
+├── docs/GDD_Saga.md   # Documento de diseño de la saga
 ├── src/               # Landing page del hub
 └── games/             # Juegos individuales
 ```

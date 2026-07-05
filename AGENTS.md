@@ -10,7 +10,7 @@
 
 - **Vanilla JS** hub landing page at `src/`.
 - **Individual games** in `games/` (gitignored). Each has its own GitHub repo.
-- **Game Design Document:** `docs/GDD.md` — saga overview, links to individual game docs.
+- **Game Design Document:** `docs/GDD_Saga.md` — saga overview, links to individual game docs.
 
 ## Architecture Notes
 
